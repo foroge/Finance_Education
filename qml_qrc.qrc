@@ -1,0 +1,14 @@
+    <RCC>
+        <qresource prefix="/data_images">
+            <file>ui/data/2home_page.png</file>
+            <file>ui/data/courses.png</file>
+            <file>ui/data/logout.png</file>
+            <file>ui/data/graph.png</file>
+            <file>ui/data/obligation.jpeg</file>
+            <file>ui/data/triangle.svg</file>
+            <file>ui/data/lectures/risk.png</file>
+            <file>ui/data/lectures/instruments.png</file>
+            <file>ui/data/lectures/no_image.png</file>
+            <file>ui/data/money-money-money.png</file>
+        </qresource>
+    </RCC>
